@@ -31,5 +31,5 @@
 ### Contribution graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robbirizaldi/robbirizaldi/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
+  <img src="https://raw.githubusercontent.com/robbirizaldi/robbirizaldi/robbirizaldi/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </p>
