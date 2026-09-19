@@ -65,4 +65,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/robbirizaldi/robbirizaldi/robbirizaldi/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph">
 </p>
-[![GitHub Achievements](https://robbirizaldi.vercel.app)](https://github.com/robbirizaldi)
