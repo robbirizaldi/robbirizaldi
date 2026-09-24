@@ -1,6 +1,6 @@
 <div align="center">
-  <p>Maker, developer, and tech enthusiast based in Indonesia.</p>
-  <p>Hi there! 👋 I'm Robbi Rizaldi, Computer Science student passionate about Data Science, Machine Learning, and Web Development. I build data-driven applications, experiment with neural networks, and deploy full-stack web projects.</p>
+  <p>Hi there! 👋 I'm Robbi Rizaldi, Computer Science student passionate about Data Science, Machine Learning, and Web Development.</p>
+  <p>I build data-driven applications, experiment with neural networks, and deploy full-stack web projects and tech enthusiast based in Indonesia.</p>
 
   <!-- WEBSITE & GITHUB -->
   <a href="https://robbirizaldi.my.id" target="_blank">
