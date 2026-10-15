@@ -21,20 +21,23 @@
   <a href="mailto:contact@robbirizaldi.my.id"><img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img align="right" src="https://media1.tenor.com/m/iYxqDoRbi1oAAAAd/misaka-mikoto.gif" alt="Misaka Mikoto from Toaru Kagaku no Railgun" width="270" />
+<p align="center">
+  <img src="https://media1.tenor.com/m/iYxqDoRbi1oAAAAd/misaka-mikoto.gif" alt="Misaka Mikoto from Toaru Kagaku no Railgun" width="300" />
+</p>
 
 <h3>📚 About Me</h3>
 
-<p>
-- 🎓 Pursuing a Bachelor's degree in Computer Science (Informatics Engineering) with a strong foundation in statistics, data analysis, databases, and machine learning<br />
-- 🔬 Interested in Data Science, Machine Learning, Business Intelligence, and Full-Stack Web Development<br />
-- 📊 Experienced in cleaning and analyzing 10,000+ transaction records, customer segmentation (RFM analysis), and interactive dashboard development<br />
-- 🌱 Growing through hands-on projects, exploratory data analysis, and modern web deployment<br />
-- 🧩 I enjoy breaking down complex data and operational problems into clean, practical, and maintainable solutions<br />
-- 🚀 Exploring how data analytics, predictive models, backend APIs, and cloud infrastructure work together in real-world products
-</p>
+<p>🎓 Pursuing a Bachelor's degree in Computer Science (Informatics Engineering), with a foundation in statistics, data analysis, databases, and machine learning.</p>
 
-<br clear="right" />
+<p>🔬 Interested in Data Science, Machine Learning, Business Intelligence, and Full-Stack Web Development.</p>
+
+<p>📊 Experienced in cleaning and analyzing 10,000+ transaction records, customer segmentation using RFM analysis, and interactive dashboard development.</p>
+
+<p>🌱 Building practical skills through hands-on projects, exploratory data analysis, and web deployment.</p>
+
+<p>🧩 Enjoy turning complex data and operational problems into practical, maintainable solutions.</p>
+
+<p>🚀 Exploring how data analytics, predictive models, backend APIs, and cloud infrastructure work together in real-world products.</p>
 
 <h3>🌿 What I'm Building Toward</h3>
 
