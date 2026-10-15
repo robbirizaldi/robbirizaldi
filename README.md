@@ -1,21 +1,27 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/yctcTARequlDa/giphy.gif" alt="Steins;Gate Header Banner" width="100%" />
+</p>
+
+<p align="center">
   Hi there! 👋 I'm <strong>Robbi Rizaldi</strong>,<br>
   Computer Science student passionate about <strong>Data Science, Machine Learning, and Web Development</strong>.<br>
   I build data-driven applications, experiment with neural networks, and deploy full-stack web projects. Based in Indonesia, I focus on transforming raw datasets into clear visualizations, predictive models, and reliable web solutions.
 </p>
 
 <p align="center">
-  <a href="https://robbirizaldi.my.id"><img src="https://img.shields.io/badge/WEBSITE-robbirizaldi.my.id-orange?style=for-the-badge" alt="Website" /></a>
-  <a href="https://github.com/robbirizaldi"><img src="https://img.shields.io/badge/GITHUB-robbirizaldi-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/robbirizaldi?tab=followers"><img src="https://img.shields.io/github/followers/robbirizaldi?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub Followers" /></a>
+  <a href="https://robbirizaldi.my.id"><img src="https://img.shields.io/badge/WEBSITE-robbirizaldi.my.id-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/robbirizaldi"><img src="https://img.shields.io/badge/GITHUB-robbirizaldi-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/robbirizaldi?tab=followers"><img src="https://img.shields.io/github/followers/robbirizaldi?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github&logoColor=white" alt="GitHub Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=robbirizaldi&label=PROFILE+VIEWS&style=for-the-badge&color=0077B5" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/robbirizaldi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/robbirizaldi"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:contact@robbirizaldi.my.id"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/robbirizaldi"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/robbirizaldi"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:contact@robbirizaldi.my.id"><img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<img align="right" src="https://media.giphy.com/media/mcFRkzXKAyqvA4dcJj/giphy.gif" alt="Steins;Gate Side GIF" width="270" />
 
 <h3>📚 About Me</h3>
 
@@ -25,6 +31,8 @@
 - 🌱 Growing through hands-on projects, exploratory data analysis, and modern web deployment
 - 🧩 I enjoy breaking down complex data and operational problems into clean, practical, and maintainable solutions
 - 🚀 Exploring how data analytics, predictive models, backend APIs, and cloud infrastructure work together in real-world products
+
+<br clear="right" />
 
 <h3>🌿 What I'm Building Toward</h3>
 
@@ -65,10 +73,10 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Cline-000000?style=flat-square" alt="Cline" />
-  <img src="https://img.shields.io/badge/9Router-F97316?style=flat-square" alt="9Router" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Vibe_Coding-EC4899?style=flat-square" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Cline-000000?style=flat-square&logo=probot&logoColor=white" alt="Cline" />
+  <img src="https://img.shields.io/badge/9Router-F97316?style=flat-square&logo=openwrt&logoColor=white" alt="9Router" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=spacemacs&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-EC4899?style=flat-square&logo=githubcopilot&logoColor=white" alt="Vibe Coding" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
@@ -81,7 +89,7 @@
   <img src="https://img.shields.io/badge/Claude-F4F0EA?style=flat-square&logo=anthropic&logoColor=black" alt="Claude" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Kimi_AI-000000?style=flat-square" alt="Kimi AI" />
+  <img src="https://img.shields.io/badge/Kimi_AI-000000?style=flat-square&logo=openai&logoColor=white" alt="Kimi AI" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -113,10 +121,10 @@
   <img src="https://img.shields.io/badge/Motherboard-000000?style=flat-square&logo=asus&logoColor=white" alt="Motherboard" />
   <img src="https://img.shields.io/badge/Memory_(RAM)-E5E7EB?style=flat-square&logo=corsair&logoColor=black" alt="Memory (RAM)" />
   <img src="https://img.shields.io/badge/Graphics_Card-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Graphics Card" />
-  <img src="https://img.shields.io/badge/Storage_(SSD%2FHDD)-00539B?style=flat-square" alt="Storage (SSD/HDD)" />
+  <img src="https://img.shields.io/badge/Storage_(SSD%2FHDD)-00539B?style=flat-square&logo=westerndigital&logoColor=white" alt="Storage (SSD/HDD)" />
   <img src="https://img.shields.io/badge/Power_Supply-E5E7EB?style=flat-square&logo=corsair&logoColor=black" alt="Power Supply" />
-  <img src="https://img.shields.io/badge/Battery-4CAF50?style=flat-square" alt="Battery" />
-  <img src="https://img.shields.io/badge/Fan-607D8B?style=flat-square" alt="Fan" />
+  <img src="https://img.shields.io/badge/Battery-4CAF50?style=flat-square&logo=energymonitor&logoColor=white" alt="Battery" />
+  <img src="https://img.shields.io/badge/Fan-607D8B?style=flat-square&logo=coolermaster&logoColor=white" alt="Fan" />
 </p>
 
 <h3>📊 GitHub Activity & Stats</h3>
@@ -139,4 +147,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/robbirizaldi/robbirizaldi/robbirizaldi/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/CVgoNyma6KaCzvFELp/giphy.gif" alt="Steins;Gate Footer Banner" width="100%" />
 </p>
